@@ -13,7 +13,7 @@
 This sample shows how to run AlgoQA-generated Cucumber tests with Selenium on the TestMu AI HyperExecute cloud using Java and Maven.
 
 - [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
-- Follow the documentation on [Run Cucumber Tests with HyperExecute on TestMu AI](https://www.testmuai.com/support/docs/cucumber-on-hyperexecute-grid/) (Formerly LambdaTest) for the full setup walkthrough.
+- Follow the documentation on [Run Cucumber Tests with HyperExecute on TestMu AI](https://www.testmuai.com/support/docs/hyperexecute-algoqa-integration/) (Formerly LambdaTest) for the full setup walkthrough.
 
 ### Prerequisites
 
